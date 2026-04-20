@@ -1,3 +1,56 @@
+
+🎉 Kho nguồn mở 100k⭐️ với 100+ project AI thực chiến cho dev
+
+awesome-llm-apps là một repo cực hot tổng hợp 100+ app AI (agent + RAG) có thể chạy ngay: clone → chỉnh sửa → deploy.
+
+🔥 Điểm khác biệt
+
+* Không phải tutorial lý thuyết
+    → mà là code chạy được ngay
+* Mỗi project đều:
+    * full source
+    * setup đơn giản (~3 lệnh)  ￼
+
+⚡ Có gì bên trong?
+
+* 🤖 AI Agents (travel, finance, research…)
+* 🤝 Multi-agent systems
+* 🧠 RAG pipelines
+* 🗣️ Voice AI
+* 💾 Memory-based apps
+* 🔧 Fine-tuning & optimization
+
+👉 Cover gần như toàn bộ stack AI hiện đại  ￼
+
+💡 Ví dụ use case
+
+* Blog → Podcast agent
+* AI medical imaging
+* Chat với PDF / YouTube / GitHub
+* AI investment / sales / marketing
+
+👉 Từ demo → production luôn.
+
+🧠 Insight quan trọng
+
+Repo này không phải framework
+→ mà là pattern library cho AI app  ￼
+
+👉 Học bằng cách:
+
+* đọc code thật
+* chạy thật
+* build thật
+
+⚡ Tại sao đáng dùng?
+
+* Tiết kiệm hàng tuần dev
+* Hiểu rõ cách build AI app end-to-end
+* Dễ customize theo use case riêng
+
+#AI #LLM #Agent
+
+
 <p align="center">
   <a href="http://www.theunwindai.com">
     <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
